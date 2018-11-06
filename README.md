@@ -1,2 +1,2 @@
-# CMB2 repeatable meta field fix
-Replaces cmb2 serialized method with WP standard separate rows/values
+# CMB2 repeatable field fix
+Replaces cmb2 serialized meta method with WP standard separate rows/values
